@@ -1,15 +1,15 @@
-# Template for new repo
+# AIMS– Applying Interoperable Metadata Standards
 
 ## Introduction
-Short description of system
+Environment to use, reuse, share metadata.
 
-##Datasheet
+## Datasheet
 
 Status: DD.MM.YYYY
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
-| Homepage     | [https://www.example.org](https://www.example.org)                          | 
+| Homepage     | [https://www.wzl.rwth-aachen.de/go/id/ivong](https://www.wzl.rwth-aachen.de/go/id/ivong)         | 
 | Description  | [https://www.example.org/description](https://www.example.org/description)  | 
 | Code         | [https://github.com/...](https://github.com/...)                            | 
 | Communities  | ---                                                                         |

@@ -1,9 +1,11 @@
-# Template for new repo
+# Coscine
 
 ## Introduction
-Short description of system
+Coscine is an integration platform for research data. 
+It simplifies metadata management, project member management, 
+and allows to conveniently archive research data.
 
-##Datasheet
+## Datasheet
 
 Status: DD.MM.YYYY
 
