@@ -3,7 +3,7 @@
 ## Introduction
 Fedora is the flexible, modular, open source repository platform with native linked data support.
 
-##Datasheet
+## Datasheet
 
 Status: 17.05.2021
 
