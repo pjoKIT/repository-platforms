@@ -8,6 +8,10 @@
    - [Features](aims/features.md)
    - [Addtional Features](aims/additionalFeatures.md)
    - [Remarks](aims/remarks.md)
+- [Cordra](cordra/datasheet.md)
+   - [Features](cordra/features.md)
+   - [Addtional Features](cordra/additionalFeatures.md)
+   - [Remarks](cordra/remarks.md)
 - [Coscine](coscine/datasheet.md)
    - [Features](coscine/features.md)
    - [Addtional Features](coscine/additionalFeatures.md)
@@ -33,6 +37,7 @@
 ----
 # At a Glance
 - [AIMS](aims/atAGlance.md)
+- [Cordra](cordra/atAGlance.md)
 - [Coscine](coscine/atAGlance.md)
 - [Fedora](fedora/atAGlance.md)
 - [GeRDI](gerdi/atAGlance.md)
