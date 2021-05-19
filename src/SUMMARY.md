@@ -24,6 +24,10 @@
    - [Features](gerdi/features.md)
    - [Addtional Features](gerdi/additionalFeatures.md)
    - [Remarks](gerdi/remarks.md)
+- [Invenio](invenio/datasheet.md)
+   - [Features](invenio/features.md)
+   - [Addtional Features](invenio/additionalFeatures.md)
+   - [Remarks](invenio/remarks.md)
 - [Metastore](metastore/datasheet.md)
    - [Features](metastore/features.md)
    - [Addtional Features](metastore/additionalFeatures.md)
@@ -41,6 +45,7 @@
 - [Coscine](coscine/atAGlance.md)
 - [Fedora](fedora/atAGlance.md)
 - [GeRDI](gerdi/atAGlance.md)
+- [Invenio](invenio/atAGlance.md)
 - [Metastore](metastore/atAGlance.md)
 - [Open Science Framework](openScienceFramework/atAGlance.md)
 
