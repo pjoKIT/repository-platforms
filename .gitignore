@@ -1,3 +1,6 @@
+# Ignore book folder
+book
+
 # Ignore backup files
 **~
 **.bak
