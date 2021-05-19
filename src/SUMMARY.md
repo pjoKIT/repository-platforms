@@ -16,6 +16,10 @@
    - [Features](fedora/features.md)
    - [Addtional Features](fedora/additionalFeatures.md)
    - [Remarks](fedora/remarks.md)
+- [GeRDI](gerdi/datasheet.md)
+   - [Features](gerdi/features.md)
+   - [Addtional Features](gerdi/additionalFeatures.md)
+   - [Remarks](gerdi/remarks.md)
 - [Metastore](metastore/datasheet.md)
    - [Features](metastore/features.md)
    - [Addtional Features](metastore/additionalFeatures.md)
@@ -31,6 +35,7 @@
 - [AIMS](aims/atAGlance.md)
 - [Coscine](coscine/atAGlance.md)
 - [Fedora](fedora/atAGlance.md)
+- [GeRDI](gerdi/atAGlance.md)
 - [Metastore](metastore/atAGlance.md)
 - [Open Science Framework](openScienceFramework/atAGlance.md)
 
