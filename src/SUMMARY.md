@@ -16,6 +16,10 @@
    - [Features](coscine/features.md)
    - [Addtional Features](coscine/additionalFeatures.md)
    - [Remarks](coscine/remarks.md)
+- [DSpace](dspace/datasheet.md)
+   - [Features](dspace/features.md)
+   - [Addtional Features](dspace/additionalFeatures.md)
+   - [Remarks](dspace/remarks.md)
 - [Fedora](fedora/datasheet.md)
    - [Features](fedora/features.md)
    - [Addtional Features](fedora/additionalFeatures.md)
@@ -36,6 +40,10 @@
    - [Features](openScienceFramework/features.md)
    - [Addtional Features](openScienceFramework/additionalFeatures.md)
    - [Remarks](openScienceFramework/remarks.md)
+- [Zenodo](zenodo/datasheet.md)
+   - [Features](zenodo/features.md)
+   - [Addtional Features](zenodo/additionalFeatures.md)
+   - [Remarks](zenodo/remarks.md)
 
    
 ----
@@ -43,10 +51,12 @@
 - [AIMS](aims/atAGlance.md)
 - [Cordra](cordra/atAGlance.md)
 - [Coscine](coscine/atAGlance.md)
+- [DSpace](dspace/atAGlance.md)
 - [Fedora](fedora/atAGlance.md)
 - [GeRDI](gerdi/atAGlance.md)
 - [Invenio](invenio/atAGlance.md)
 - [Metastore](metastore/atAGlance.md)
 - [Open Science Framework](openScienceFramework/atAGlance.md)
+- [Zenodo](zenodo/atAGlance.md)
 
 
