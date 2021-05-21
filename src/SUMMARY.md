@@ -40,6 +40,10 @@
    - [Features](openScienceFramework/features.md)
    - [Addtional Features](openScienceFramework/additionalFeatures.md)
    - [Remarks](openScienceFramework/remarks.md)
+- [Zenodo](zenodo/datasheet.md)
+   - [Features](zenodo/features.md)
+   - [Addtional Features](zenodo/additionalFeatures.md)
+   - [Remarks](zenodo/remarks.md)
 
    
 ----
@@ -53,5 +57,6 @@
 - [Invenio](invenio/atAGlance.md)
 - [Metastore](metastore/atAGlance.md)
 - [Open Science Framework](openScienceFramework/atAGlance.md)
+- [Zenodo](zenodo/atAGlance.md)
 
 
