@@ -13,5 +13,5 @@ Status: DD.MM.YYYY
 | Description  | [https://www.example.org/description](https://www.example.org/description)  | 
 | Code         | [https://github.com/...](https://github.com/...)                            | 
 | Communities  | ---                                                                         |
-| Version      |                                                                             |
+| Version      | x.x.x (released at: ...)                                                    |
 

@@ -14,4 +14,4 @@ Status: 17.05.2021
 | Description  | [https://www.cos.io/products/osf](https://www.cos.io/products/osf)                          |
 | Code         | [https://github.com/CenterForOpenScience/](https://github.com/CenterForOpenScience/)                            | 
 | Communities  | no limits                                                                    |
-| Version      | 2.0                                                                    |
+| Version      | 19.31.0  (released at: 08.11.2021)                                                                     |

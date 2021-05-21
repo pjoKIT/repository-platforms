@@ -10,8 +10,8 @@ Status: 19.05.2021
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
 | Homepage     | [https://www.cordra.org/](https://www.cordra.org/)                          | 
-| Description  | [https://www.cordra.org/cordra.html](https://www.cordra.org/cordra.html)  | 
-| Code         | [https://gitlab.com/cnri/cordra](https://gitlab.com/cnri/cordra)                            | 
+| Description  | [https://www.cordra.org/cordra.html](https://www.cordra.org/cordra.html)    | 
+| Code         | [https://gitlab.com/cnri/cordra](https://gitlab.com/cnri/cordra)            | 
 | Communities  | ---                                                                         |
-| Version      | 2.3.0                                                                       |
+| Version      | 2.3.0 (released at 01.04.2021)                                              |
 
