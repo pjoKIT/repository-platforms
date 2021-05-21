@@ -10,9 +10,9 @@ Status: 21.05.2021
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
-| Homepage     | [https://zenodo.org/](https://zenodo.org/)                          | 
-| Description  | [https://about.zenodo.org/](https://about.zenodo.org/)  | 
-| Code         | [https://github.com/zenodo/zenodo](https://github.com/zenodo/zenodo)                            | 
+| Homepage     | [https://zenodo.org/](https://zenodo.org/)                                  | 
+| Description  | [https://about.zenodo.org/](https://about.zenodo.org/)                      | 
+| Code         | [https://github.com/zenodo/zenodo](https://github.com/zenodo/zenodo)        | 
 | Communities  | ---                                                                         |
-| Version      |                                                                             |
+| Version      | ---                                                                         |
 

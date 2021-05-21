@@ -13,4 +13,4 @@ Status: 17.05.2021
 | Description  | [https://duraspace.org/fedora/about/](https://duraspace.org/fedora/about/)  | 
 | Code         | [https://github.com/fcrepo/fcrepo/releases](https://github.com/fcrepo/fcrepo/releases)                            | 
 | Communities  | ---                                                                         |
-| Version      | 5.1.0                                                                         |
+| Version      | 5.1.1  (released at: 21.07.2020)                                            |

@@ -13,5 +13,5 @@ Status: 19.05.2021
 | Description  | [https://invenio-software.org/about/](https://invenio-software.org/about/)  | 
 | Code         | [https://github.com/inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)                            | 
 | Communities  | ---                                                                         |
-| Version      | 2.0   |
+| Version      | 3.0.0  (released at: 29.04.2021)                                            |
 

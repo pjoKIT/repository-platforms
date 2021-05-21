@@ -14,5 +14,5 @@ Status: 21.05.2021
 | Description  | [https://duraspace.org/dspace/about/](https://duraspace.org/dspace/about/)  | 
 | Code         | [https://github.com/DSpace/DSpace](https://github.com/DSpace/DSpace)        | 
 | Communities  | ---                                                                         |
-| Version      | 6.3                                                                         |
+| Version      | 6.3  (released at: 26.10.2018)                                                     |
 
