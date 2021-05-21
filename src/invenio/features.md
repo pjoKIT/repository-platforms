@@ -11,7 +11,7 @@ Status: 19.05.2021
 | License             | MIT        |          |
 | Versioning          |            |          |
 | AAI                 | yes        | internal?      |
-| External Storage    | yes        | OCRID, DataCite & OpenAIRE, ...   |
+| External Storage    | yes        | Amazon S3   |
 | Referencable        | yes        | ISBN10, DOI, Handle, URN, PUBMED, ...         |
 
 
