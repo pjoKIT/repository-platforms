@@ -1,4 +1,4 @@
-# Invenio
+# Invenio RDM
 
 ## Introduction
 InvenioRDM - a repository/document management platform.
