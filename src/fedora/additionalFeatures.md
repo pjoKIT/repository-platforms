@@ -1,10 +1,8 @@
 ## Additional Features
 
-Status: DD.MM.YYYY
+Status: 19.05.2021
 
-Additional features which are not described in the table before.
-
-- Feature 1
-- Feature 2
+- no limits regarding file types
+- no limits for file size
 
 

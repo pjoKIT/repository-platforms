@@ -7,7 +7,7 @@ to store, share and re-use research data across disciplines.
 
 ## Datasheet
 
-Status: DD.MM.YYYY
+Status: 19.05.2021
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |

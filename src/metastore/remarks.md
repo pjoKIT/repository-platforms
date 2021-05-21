@@ -6,8 +6,8 @@
   - Direct access to schema via metastore.
 - **Metadata Explorer** (Outlook)
   - Exploring metadata by content
-- **Metadata Editor**
-  - Update schema/documents online
+- **Metadata Editor** (coming soon)
+  - Update schema/documents online 
 - **Authentication Server**
   - If a separate authentication service is to be set up.
 

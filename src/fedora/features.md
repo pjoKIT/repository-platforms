@@ -12,6 +12,6 @@ Status: 17.05.2021
 | Versioning          | yes        | Memento protocol |
 | AAI                 | yes     | support for ACLs, ServletContainerAuthenticatingRealm and WebACAuthorizingRealm.         |
 | External Storage    | yes        |   empty binary as placeholder       |
-| Referencable        |            |          |
+| Referencable        | yes        | support for external PID Minter    |
 
 
