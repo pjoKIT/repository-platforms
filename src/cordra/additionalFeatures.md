@@ -2,7 +2,10 @@
 
 Status: 19.05.2021
 
-- Scalable infrastructure
+- Scalable infrastructure (allows load balancing)
+- Referencing one schema from another
+- Online editor for creating metadata documents (may not work with
+references)
 - Validates supplied information against one or more pre-defined JSON schemas, and stores them as digital objects
 - adoptable via hooks
   - e.g. validation 
