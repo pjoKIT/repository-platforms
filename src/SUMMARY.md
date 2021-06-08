@@ -8,6 +8,10 @@
    - [Features](aims/features.md)
    - [Addtional Features](aims/additionalFeatures.md)
    - [Remarks](aims/remarks.md)
+- [Ckan](ckan/datasheet.md)
+   - [Features](ckan/features.md)
+   - [Addtional Features](ckan/additionalFeatures.md)
+   - [Remarks](ckan/remarks.md)
 - [Cordra](cordra/datasheet.md)
    - [Features](cordra/features.md)
    - [Addtional Features](cordra/additionalFeatures.md)
@@ -49,6 +53,7 @@
 ----
 # At a Glance
 - [AIMS](aims/atAGlance.md)
+- [Ckan](ckan/atAGlance.md)
 - [Cordra](cordra/atAGlance.md)
 - [Coscine](coscine/atAGlance.md)
 - [DSpace](dspace/atAGlance.md)
@@ -58,5 +63,7 @@
 - [Metastore](metastore/atAGlance.md)
 - [Open Science Framework](openScienceFramework/atAGlance.md)
 - [Zenodo](zenodo/atAGlance.md)
-
+----
+# Summary
+- [Evaluation Matrix](evaluationMatrix.md)
 
