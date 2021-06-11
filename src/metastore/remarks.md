@@ -3,7 +3,7 @@
 ### Enhanced services
 - **Metadata Standards Catalog**
   - Human readable description for finding appropriate schema
-  - Direct access to schema via metastore.
+  - Direct access to schema via *MetaStore*.
 - **Metadata Explorer** (Outlook)
   - Exploring metadata by content
 - **Metadata Editor** (coming soon)

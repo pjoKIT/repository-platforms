@@ -1,6 +1,6 @@
 # Enhanced Services (optional)
 
-The following services have to be installed on top of metastore.
+The following services have to be installed on top of *MetaStore*.
 All services are **optional**.
 
 ## Metadata Standards Catalog
@@ -10,7 +10,7 @@ All services are **optional**.
 ## Metadata Editor
 - Update (schema) documents online
 
-## Metadata Explorer
-- Exploring metadata by content 
+## Metadata Document Explorer
+- Exploring metadata documents by content 
 
 

@@ -36,7 +36,7 @@
    - [Features](invenio/features.md)
    - [Addtional Features](invenio/additionalFeatures.md)
    - [Remarks](invenio/remarks.md)
-- [Metastore](metastore/datasheet.md)
+- [MetaStore](metastore/datasheet.md)
    - [Features](metastore/features.md)
    - [Addtional Features](metastore/additionalFeatures.md)
    - [Remarks](metastore/remarks.md)
@@ -60,7 +60,7 @@
 - [Fedora](fedora/atAGlance.md)
 - [GeRDI](gerdi/atAGlance.md)
 - [Invenio](invenio/atAGlance.md)
-- [Metastore](metastore/atAGlance.md)
+- [MetaStore](metastore/atAGlance.md)
 - [Open Science Framework](openScienceFramework/atAGlance.md)
 - [Zenodo](zenodo/atAGlance.md)
 ----

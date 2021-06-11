@@ -2,7 +2,7 @@
 
 Status: 08.06.2021
 
-| Function              | [AIMS](aims/atAGlance.md) | [Ckan](ckan/atAGlance.md) | [Cordra](cordra/atAGlance.md) | [Coscine](coscine/atAGlance.md) | [DSpace](dspace/atAGlance.md) | [Fedora](fedora/atAGlance.md) | [Gerdi](gerdi/atAGlance.md) |[Invenio](invenio/atAGlance.md) | [Metastore](metastore/atAGlance.md) | [OSF](openScienceFramework/atAGlance.md) | [Zenodo](zenodo/atAGlance.md) |
+| Function              | [AIMS](aims/atAGlance.md) | [Ckan](ckan/atAGlance.md) | [Cordra](cordra/atAGlance.md) | [Coscine](coscine/atAGlance.md) | [DSpace](dspace/atAGlance.md) | [Fedora](fedora/atAGlance.md) | [Gerdi](gerdi/atAGlance.md) |[Invenio](invenio/atAGlance.md) | [MetaStore](metastore/atAGlance.md) | [OSF](openScienceFramework/atAGlance.md) | [Zenodo](zenodo/atAGlance.md) |
 | ---------------------:| :-----------------------: | :-----------------------: | :---------------------------: | :-----------------------------: | :---------------------------: | :---------------------------: | :-------------------------: | :----------------------------: | :---------------------------------: | :--------------------------------------: | :---------------------------: |
 | Register Schema       |                           | -                         | (+)[^1]                       |                                 |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
 | Update Schema         |                           | -                         | (+)[^2]                       |                                 |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
@@ -20,6 +20,7 @@ For more detailed information please use the links in the table header.
 ### Description 
 - **Register Schema:**
   - Support for arbitrary schemas of a specific format (e.g. JSON Schema, XSD)
+  - The schema should at least be referencable by a unique identifier.
 - **Update Schema:**
   - Possibility to 
     - work on different versions of a schema 
