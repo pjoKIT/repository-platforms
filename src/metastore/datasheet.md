@@ -1,8 +1,8 @@
-# Metastore
+# MetaStore
 
 ## Introduction
-Metastore is a **metadata repository** for managing millions of metadata documents.
-Metastore supports communities with their specific schemas (XSD, JSON Schema).
+*MetaStore* is a **metadata repository** for managing millions of metadata documents.
+*MetaStore* supports communities with their specific schemas (XSD, JSON Schema).
 
 ## Datasheet
 

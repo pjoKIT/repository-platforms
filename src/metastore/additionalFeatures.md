@@ -2,7 +2,7 @@
 
 Status: 17.05.2021
 
-Metastore consists of two parts:
+MetaStore consists of two parts:
 - ***Metadata Repository*** for managing metadata documents
 - ***Schema Registry*** for registering schema documents
 
