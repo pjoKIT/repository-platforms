@@ -12,8 +12,8 @@ Status: 08.06.2021
 | Validate Metadata     |                           | -                         |  +                            |                                 |  -                            | -                             | +                           | -                              | +                                   | -                                        | -                             | 
 | Search by ...         |                           |                           |                               |                                 |                               |                               |                             |                                |                                     |                                          |                               | 
 | ... Administrative MD |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
-| ... Content           |                           | -                         |  +                            |                                 |  -                            | +                             | +                           | -                              | (+)                                 | -                                        | -                             | 
-| Persistent Identifier |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              |  +                                  | +                                        | +                             | 
+| ... Content           |                           | -                         |  +                            |                                 |  -                            | +                             | +                           | -                              | (+)[^3]                             | -                                        | -                             | 
+| Persistent Identifier |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              |  +[^4]                              | +                                        | +                             | 
 
 For more detailed information please use the links in the table header.
 
@@ -47,3 +47,7 @@ For more detailed information please use the links in the table header.
 [^1]: Support for arbitrary (JSON Schema) via configuration only (-> restricted to administrators)
 
 [^2]: Manually by administrators
+
+[^3]: Via enhanced service
+
+[^4]: PID via enhanced service
