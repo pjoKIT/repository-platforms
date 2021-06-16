@@ -4,16 +4,16 @@ Status: 08.06.2021
 
 | Function              | [AIMS](aims/atAGlance.md) | [Ckan](ckan/atAGlance.md) | [Cordra](cordra/atAGlance.md) | [Coscine](coscine/atAGlance.md) | [DSpace](dspace/atAGlance.md) | [Fedora](fedora/atAGlance.md) | [Gerdi](gerdi/atAGlance.md) |[Invenio](invenio/atAGlance.md) | [MetaStore](metastore/atAGlance.md) | [OSF](openScienceFramework/atAGlance.md) | [Zenodo](zenodo/atAGlance.md) |
 | ---------------------:| :-----------------------: | :-----------------------: | :---------------------------: | :-----------------------------: | :---------------------------: | :---------------------------: | :-------------------------: | :----------------------------: | :---------------------------------: | :--------------------------------------: | :---------------------------: |
-| Register Schema       |                           | -                         | (+)[^1]                       |                                 |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
-| Update Schema         |                           | -                         | (+)[^2]                       |                                 |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
-| Validate Schema       |                           | -                         |  -                            |                                 |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
-| Ingest Metadata       |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
-| Update Metadata       |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
-| Validate Metadata     |                           | (+)[^3]                   |  +                            |                                 |  -                            | -                             | +                           | -                              | +                                   | -                                        | -                             | 
+| Register Schema       | +                         | -                         | (+)[^1]                       | +                               |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
+| Update Schema         | +                         | -                         | (+)[^2]                       | +                               |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
+| Validate Schema       | (+)[^3]                   | -                         |  -                            | (+)[^3]                         |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
+| Ingest Metadata       | +                         | +                         |  +                            | +                               |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
+| Update Metadata       |                           | +                         |  +                            | +                               |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
+| Validate Metadata     | +                         | (+)[^4]                   |  +                            | +                               |  -                            | -                             | +                           | -                              | +                                   | -                                        | -                             | 
 | Search by ...         |                           |                           |                               |                                 |                               |                               |                             |                                |                                     |                                          |                               | 
-| ... Administrative MD |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
-| ... Content           |                           | (+)[^4]                   |  +                            |                                 |  -                            | +                             | +                           | -                              | (+)[^5]                             | -                                        | -                             | 
-| Persistent Identifier |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +[^6]                              | +                                        | +                             | 
+| ... Administrative MD | +                         | +                         |  +                            | +                               |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
+| ... Content           |                           | (+)[^5]                   |  +                            | (+)[^6]                         |  -                            | +                             | +                           | -                              | (+)[^7]                             | -                                        | -                             | 
+| Persistent Identifier | (+)                       | +                         |  +                            | +                               |  +                            | +                             | +                           | +                              | +[^8]                               | +                                        | +                             | 
 
 For more detailed information please use the links in the table header.
 
@@ -48,12 +48,16 @@ For more detailed information please use the links in the table header.
 
 [^2]: Manually by administrators
 
-[^3]: Via 'scheming' plugin with a rudimentary schema format
+[^3]: Syntax check
 
-[^4]: Via 'DataStore' plugin (supports SQL queries)
+[^4]: Via 'scheming' plugin with a rudimentary schema format
 
-[^5]: Via enhanced service
+[^5]: Via 'DataStore' plugin (supports SQL queries)
 
-[^6]: PID via enhanced service
+[^6]: Planned
+
+[^7]: Via enhanced service
+
+[^8]: PID via enhanced service
 
 
