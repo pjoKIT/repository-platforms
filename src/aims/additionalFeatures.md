@@ -1,10 +1,6 @@
 ## Additional Features
 
-Status: DD.MM.YYYY
+Status: 16.06.2021
 
-Additional features which are not described in the table before.
-
-- Feature 1
-- Feature 2
-
-
+- Has a UI which can easily create RDF SHACL application profiles
+- Integration in scientific processes

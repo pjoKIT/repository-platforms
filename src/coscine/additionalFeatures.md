@@ -1,10 +1,7 @@
 ## Additional Features
 
-Status: DD.MM.YYYY
+Status: 16.06.2021
 
-Additional features which are not described in the table before.
-
-- Feature 1
-- Feature 2
-
-
+- Has a UI which can generate form elements based on RDF SHACL application profiles
+- Interaction with a multitude of storage providers
+- Provides access to its own version of S3 storage, called "RDS"
