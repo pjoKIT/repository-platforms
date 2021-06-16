@@ -1,18 +1,18 @@
 ## Functionality
 
-Status: DD.MM.YYYY
+Status: 16.06.2021
 
 | Function              | Supported | Remarks         |
 | ---------------------:| :-------: | :-------------- |
-| Register Schema       |           |                 | 
-| Update Schema         |           |                 | 
-| Validate Schema       |           |                 | 
-| Ingest Metadata       |           |                 | 
-| Update Metadata       |           |                 | 
-| Validate Metadata     |           |                 | 
+| Register Schema       | +         | RDF, SHACL      | 
+| Update Schema         | +         |                 | 
+| Validate Schema       | (+)       | Syntax check    | 
+| Ingest Metadata       | +         |                 | 
+| Update Metadata       | +         |                 | 
+| Validate Metadata     | +         |                 | 
 | Search by ...         |           |                 | 
-| ... Administrative MD |           |                 | 
-| ... Content           |           |                 | 
-| Persistent Identifier |           |                 | 
+| ... Administrative MD | +         |                 | 
+| ... Content           | (+)       | Planned         | 
+| Persistent Identifier | +         |                 | 
 
 

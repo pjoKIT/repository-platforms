@@ -7,7 +7,7 @@ and allows to conveniently archive research data.
 
 ## Datasheet
 
-Status: DD.MM.YYYY
+Status: 16.06.2021
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
@@ -15,5 +15,3 @@ Status: DD.MM.YYYY
 | Description  | [https://coscine.pages.rwth-aachen.de/docs/public/pages/en/about/](https://coscine.pages.rwth-aachen.de/docs/public/pages/en/about/)  | 
 | Code         | [https://git.rwth-aachen.de/coscine](https://git.rwth-aachen.de/coscine)    | 
 | Communities  | ---                                                                         |
-| Version      | ---                                                                         |
-
