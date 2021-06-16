@@ -9,11 +9,11 @@ Status: 08.06.2021
 | Validate Schema       |                           | -                         |  -                            |                                 |  -                            | -                             | -                           | -                              | +                                   | -                                        | -                             | 
 | Ingest Metadata       |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
 | Update Metadata       |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
-| Validate Metadata     |                           | -                         |  +                            |                                 |  -                            | -                             | +                           | -                              | +                                   | -                                        | -                             | 
+| Validate Metadata     |                           | (+)[^3]                   |  +                            |                                 |  -                            | -                             | +                           | -                              | +                                   | -                                        | -                             | 
 | Search by ...         |                           |                           |                               |                                 |                               |                               |                             |                                |                                     |                                          |                               | 
 | ... Administrative MD |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +                                   | +                                        | +                             | 
-| ... Content           |                           | -                         |  +                            |                                 |  -                            | +                             | +                           | -                              | (+)[^3]                             | -                                        | -                             | 
-| Persistent Identifier |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              |  +[^4]                              | +                                        | +                             | 
+| ... Content           |                           | (+)[^4]                   |  +                            |                                 |  -                            | +                             | +                           | -                              | (+)[^5]                             | -                                        | -                             | 
+| Persistent Identifier |                           | +                         |  +                            |                                 |  +                            | +                             | +                           | +                              | +[^6]                              | +                                        | +                             | 
 
 For more detailed information please use the links in the table header.
 
@@ -48,6 +48,12 @@ For more detailed information please use the links in the table header.
 
 [^2]: Manually by administrators
 
-[^3]: Via enhanced service
+[^3]: Via 'scheming' plugin with a rudimentary schema format
 
-[^4]: PID via enhanced service
+[^4]: Via 'DataStore' plugin (supports SQL queries)
+
+[^5]: Via enhanced service
+
+[^6]: PID via enhanced service
+
+
