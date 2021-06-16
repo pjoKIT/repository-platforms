@@ -1,6 +1,6 @@
 {{#include datasheet.md }}
 {{#include features.md }}
-{{#include functionality.md }}
 {{#include additionalFeatures.md }}
+{{#include functionality.md }}
 {{#include remarks.md }}
 
