@@ -1,4 +1,5 @@
 ## Remarks
 
-- Focus on usability and taking the complexity out of the application profile creation
-- Work with standards on metadata sharing
+- Focus on usability and low-threshold access.
+- Compatibility with existing standards and terminologies.
+- Accessible to other applications via SPARQL endpoints.
