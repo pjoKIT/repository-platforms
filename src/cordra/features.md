@@ -15,3 +15,5 @@ Status: 19.05.2021
 | Referencable        | yes        | internal & external via IRP interface         |
 
 
+{{#include ../featureDescription.md }}
+

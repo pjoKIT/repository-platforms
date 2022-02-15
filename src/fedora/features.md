@@ -15,3 +15,5 @@ Status: 17.05.2021
 | Referencable        | yes        | support for external PID Minter    |
 
 
+{{#include ../featureDescription.md }}
+

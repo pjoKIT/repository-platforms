@@ -15,3 +15,5 @@ Status: 21.05.2021
 | Referencable        | yes        | supports handle & bitstream 'persistent' identifiers   |
 
 
+{{#include ../featureDescription.md }}
+
