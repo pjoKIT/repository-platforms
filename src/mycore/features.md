@@ -1,17 +1,17 @@
 ## Features
 
-Status: DD.MM.YYYY
+Status: 17.05.2022
 
 |                     |            |          |
 | -------------------:| :--------: | :------- |
-| Supported Schema(s) |            |          |
-| Supported Format(s) |            |          |
-| Interface(s)        |            |          |
-| Open Source         | yes/no     |          |
-| License             |            |          |
-| Versioning          |            |          |
-| AAI                 | yes/no     |          |
-| External Storage    |            |          |
-| Referencable        |            |          |
+| Supported Schema(s) | DC, MODS, LIDO, EAD, TEI, MEI | allows integration of custom schemas |
+| Supported Format(s) | any        | XML used internally |
+| Interface(s)        | OAI-PMH, SWORD, REST, IIIF API | [https://www.mycore.de/documentation/interfaces/](https://www.mycore.de/documentation/interfaces/) |
+| Open Source         | yes        | GitHub   |
+| License             | GPL v3     |          |
+| Versioning          | yes        |          |
+| AAI                 | yes     | LDAP, Shibboleth |
+| External Storage    | yes        | PostgreSQL, MySQL, Oracle, IBM DB2, HSQLDB |
+| Referencable        | DOI, URN, PURL |          |
 
 
