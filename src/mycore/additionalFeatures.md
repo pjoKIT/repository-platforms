@@ -1,10 +1,8 @@
 ## Additional Features
 
-Status: DD.MM.YYYY
+Status: 31.05.2022
 
 Additional features which are not described in the table before.
 
-- Feature 1
-- Feature 2
-
+- Supports the creation of static and dynamic web pages.
 
