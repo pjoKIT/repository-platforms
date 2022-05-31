@@ -7,7 +7,7 @@ Status: 31.05.2022
 | Register Schema       | +         |                 |
 | Update Schema         |           |                 | 
 | Validate Schema       | +         |                 |
-| Ingest Metadata       | +         |                 |
+| Ingest Metadata       | +         | automated metadata extraction possible for jpeg, mp3 and pdf files |
 | Update Metadata       | +         |                 |
 | Validate Metadata     |           |                 | 
 | Search by ...         |           |                 | 
