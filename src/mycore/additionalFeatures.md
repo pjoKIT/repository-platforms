@@ -1,10 +1,10 @@
 ## Additional Features
 
-Status: 31.05.2022
+Status: 01.06.2022
 
-Additional features which are not described in the table before.
-
-- Supports the creation of static and dynamic web pages.
-- Includes an image viewer which supports several formats (i.e. jpeg, png, tiff, pdf, epub).
-- It is possible to create a sitemap which conforms to the Google Sitemap protocol.
-- MyCoRe provides the relevant data to use the DFG Viewer.
+The MyCoRe framework
+- supports the creation of static and dynamic web pages.
+- includes an image viewer which supports several formats (i.e. jpeg, png, tiff, pdf, epub).
+- enables creation of a sitemap which conforms to the Google Sitemap protocol.
+- provides the relevant data to use the DFG Viewer.
+- supports various classification systems, such as DDC, PACS, MeSH, vocabularies for publication and document types (DINI, DCMI) as well as languages (ISO 639.2). It is possible to browse and edit classifications.
