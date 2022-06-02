@@ -2,7 +2,7 @@
 
 ## Introduction
 MyCoRe is a framework for presentation and management of digital content. It enables the
-creation of own applications, i.e. repositories, bibliography servers and digital libraries.
+creation of own applications, i.e. repositories, bibliographies and digital libraries.
 
 ## Datasheet
 
