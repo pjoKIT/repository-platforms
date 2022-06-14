@@ -14,5 +14,4 @@ Status: 14.06.2022
 | Description  | [https://knb.ecoinformatics.org/knb/docs/intro.html](https://knb.ecoinformatics.org/knb/docs/intro.html) | 
 | Code         | [https://github.com/NCEAS/metacat](https://github.com/NCEAS/metacat)    | 
 | Communities  | DataONE                                                                     |
-| Version      | 2.18.0 (released at: 19.05.2022)                                            |
-
+| Version      | 2.18.0 (released on 19.05.2022)                                             |

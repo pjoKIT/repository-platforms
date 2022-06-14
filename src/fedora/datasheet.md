@@ -13,4 +13,4 @@ Status: 14.06.2022
 | Description  | [https://duraspace.org/fedora/about/](https://duraspace.org/fedora/about/)  | 
 | Code         | [https://github.com/fcrepo/fcrepo/releases](https://github.com/fcrepo/fcrepo/releases)                            | 
 | Communities  | ---                                                                         |
-| Version      | 6.2.0  (released at: 03.06.2022)                                            |
+| Version      | 6.2.0  (released on 03.06.2022)                                             |

@@ -14,5 +14,4 @@ Status: 14.06.2022
 | Description  | [https://duraspace.org/dspace/about/](https://duraspace.org/dspace/about/)  | 
 | Code         | [https://github.com/DSpace/DSpace](https://github.com/DSpace/DSpace)        | 
 | Communities  | ---                                                                         |
-| Version      | 7.2.1  (released at: 01.04.2022)                                                     |
-
+| Version      | 7.2.1  (released on 01.04.2022)                                             |

@@ -15,5 +15,4 @@ Status: 14.06.2022
 | Description  | [https://ckan.org/features](https://ckan.org/features)                      | 
 | Code         | [https://github.com/ckan/ckan](https://github.com/ckan/ckan)                | 
 | Communities  | ---                                                                         |
-| Version      | 2.9.5 (released at: 19.01.2022)                                             |
-
+| Version      | 2.9.5 (released on 19.01.2022)                                              |

@@ -15,5 +15,4 @@ Status: 19.05.2021
 | Description  | [https://www.gerdi-project.eu/about-gerdi/](https://www.gerdi-project.eu/about-gerdi/)  | 
 | Code         | ---                           | 
 | Communities  | Digital Humanities, Microscopy and Bioinformatics, ...   
-| Version      |                                                                
-
+| Version      |                                                                |

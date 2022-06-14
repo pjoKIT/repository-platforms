@@ -13,5 +13,4 @@ Status: 14.06.2022
 | Description  | [https://invenio-software.org/about/](https://invenio-software.org/about/)  | 
 | Code         | [https://github.com/inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)                            | 
 | Communities  | ---                                                                         |
-| Version      | 9.0.3  (released at: 09.06.2022)                                            |
-
+| Version      | 9.0.3  (released on 09.06.2022)                                             |
