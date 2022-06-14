@@ -5,7 +5,7 @@ InvenioRDM - a repository/document management platform.
 
 ## Datasheet
 
-Status: 19.05.2021
+Status: 14.06.2022
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
@@ -13,5 +13,5 @@ Status: 19.05.2021
 | Description  | [https://invenio-software.org/about/](https://invenio-software.org/about/)  | 
 | Code         | [https://github.com/inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm)                            | 
 | Communities  | ---                                                                         |
-| Version      | 3.0.0  (released at: 29.04.2021)                                            |
+| Version      | 9.0.3  (released at: 09.06.2022)                                            |
 

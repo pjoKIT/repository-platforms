@@ -7,7 +7,7 @@ who collect a lot of data. (https://docs.ckan.org/en/2.9/user-guide.html)
 
 ## Datasheet
 
-Status: 08.06.2021
+Status: 14.06.2022
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
@@ -15,5 +15,5 @@ Status: 08.06.2021
 | Description  | [https://ckan.org/features](https://ckan.org/features)                      | 
 | Code         | [https://github.com/ckan/ckan](https://github.com/ckan/ckan)                | 
 | Communities  | ---                                                                         |
-| Version      | 2.9.3 (released at: 28.05.2021)                                             |
+| Version      | 2.9.5 (released at: 19.01.2022)                                             |
 

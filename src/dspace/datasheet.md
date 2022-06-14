@@ -6,7 +6,7 @@ building open digital repositories
 
 ## Datasheet
 
-Status: 21.05.2021
+Status: 14.06.2022
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
@@ -14,5 +14,5 @@ Status: 21.05.2021
 | Description  | [https://duraspace.org/dspace/about/](https://duraspace.org/dspace/about/)  | 
 | Code         | [https://github.com/DSpace/DSpace](https://github.com/DSpace/DSpace)        | 
 | Communities  | ---                                                                         |
-| Version      | 6.3  (released at: 26.10.2018)                                                     |
+| Version      | 7.2.1  (released at: 01.04.2022)                                                     |
 
