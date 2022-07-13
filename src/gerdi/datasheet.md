@@ -13,7 +13,6 @@ Status: 19.05.2021
 | ------------:| :-------------------------------------------------------------------------- |
 | Homepage     | [https://www.gerdi-project.eu/](https://www.gerdi-project.eu/)                          | 
 | Description  | [https://www.gerdi-project.eu/about-gerdi/](https://www.gerdi-project.eu/about-gerdi/)  | 
-| Code         | ---                           | 
-| Communities  | Digital Humanities, Microscopy and Bioinformatics, ...   
-| Version      |                                                                
-
+| Code         | [https://github.com/gerdi-project/](https://github.com/gerdi-project/)      |
+| Communities  | Digital Humanities, Microscopy and Bioinformatics, ...                      |
+| Version      |                                                                             |

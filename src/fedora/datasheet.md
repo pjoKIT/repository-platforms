@@ -5,12 +5,12 @@ Fedora is the flexible, modular, open source repository platform with native lin
 
 ## Datasheet
 
-Status: 17.05.2021
+Status: 14.06.2022
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
-| Homepage     | [https://duraspace.org/fedora/](https://duraspace.org/fedora/)                          | 
-| Description  | [https://duraspace.org/fedora/about/](https://duraspace.org/fedora/about/)  | 
-| Code         | [https://github.com/fcrepo/fcrepo/releases](https://github.com/fcrepo/fcrepo/releases)                            | 
+| Homepage     | [https://duraspace.org/fedora/](https://duraspace.org/fedora/)              |
+| Description  | [https://duraspace.org/fedora/about/](https://duraspace.org/fedora/about/)  |
+| Code         | [https://github.com/fcrepo/fcrepo/](https://github.com/fcrepo/fcrepo/)      |
 | Communities  | ---                                                                         |
-| Version      | 5.1.1  (released at: 21.07.2020)                                            |
+| Version      | 6.2.0  (released on 03.06.2022)                                             |
