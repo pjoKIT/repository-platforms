@@ -44,8 +44,11 @@ metadataRepos> mdbook serve .
 Open your Browser at: [http://localhost:3000](http://localhost:3000)
 
 If everything looks fine:
+
 7. Make a pull request
+
 Open your Browser at: [https://github.com/YOUR_ACCOUNT/metadataRepos](https://github.com/YOUR_ACCOUNT/metadataRepos)
 
 8. You're done
+
 Wait for the feedback of the administrator. If everything is OK, your entry will be merged and should be online afterwards.
