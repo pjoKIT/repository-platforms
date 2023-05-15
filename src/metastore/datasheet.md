@@ -6,12 +6,12 @@
 
 ## Datasheet
 
-Status: 14.06.2022
+Status: 11.05.2023
 
 |              |                                                                             |
 | ------------:| :-------------------------------------------------------------------------- |
-| Homepage     | ---                          | 
-| Description  | [https://github.com/kit-data-manager/metastore2#readme](https://github.com/kit-data-manager/metastore2#readme)  | 
-| Code         | [https://github.com/kit-data-manager/metastore2](https://github.com/kit-data-manager/metastore2) | 
+| Homepage     | [https://kit-data-manager.github.io/webpage/metastore/](https://kit-data-manager.github.io/webpage/metastore/) |
+| Description  | [https://github.com/kit-data-manager/metastore2#readme](https://github.com/kit-data-manager/metastore2#readme) |
+| Code         | [https://github.com/kit-data-manager/metastore2](https://github.com/kit-data-manager/metastore2) |
 | Communities  | ---                                                                         |
-| Version      | 1.0.0 (released on 29.03.2022)                                              |
+| Version      | 1.2.3 (released on 13.04.2023)                                              |
