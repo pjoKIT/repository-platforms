@@ -52,3 +52,7 @@ Open your Browser at: [https://github.com/YOUR_ACCOUNT/repository-platforms](htt
 8. You're done
 
 Wait for the feedback of the administrator. If everything is OK, your entry will be merged and should be online afterwards.
+
+## Acknowledgements
+
+This work has been supported by [NFDI4ING](https://nfdi4ing.de/) (DFG project number 442146713).
